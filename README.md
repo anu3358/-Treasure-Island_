@@ -35,3 +35,28 @@ You start at a crossroad. Make the right decisions to reach the treasure, but be
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/treasure-island-game.git
+
+
+🧙‍♂️ Choices Matter
+Make sure you:
+
+Go left at the crossroads
+
+Wait instead of swimming
+
+Choose yellow — the color of gold
+
+...or suffer the consequences 🪦
+
+👨‍💻 Author
+Crafted with suspense and Python by ✨ ANURAG SAINI ✨
+
+
+
+📌 Want to test before cloning?
+🔗 Check out the live browser demo here: https://appbrewery.github.io/python-day3-demo/
+
+
+
+⭐ Support
+IF YOU APPRECIATE MY WORK PLEASE GIVE STAR ⭐
